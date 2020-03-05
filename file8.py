@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import gzip
 import io
 import os
