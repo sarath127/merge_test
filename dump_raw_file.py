@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import gzip
 import io
 import os
@@ -14,3 +15,12 @@ import copy
 
 import us_state_definder
 from us_state_definder import *
+=======
+
+SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+EEEEEEEEEEEEExxxxEEEEEEEEEEEEEEEE
+FFFFFFFFFFFFFyyyyFFFFFFFFFFFFFFFF
+GGGGGGGGGGGGGxxxxGGGGGGGGGGGGGGGG
+HHHHHHHHHHHHHyyyyHHHHHHHHHHHHHHHH
+>>>>>>> origin/new_branch
